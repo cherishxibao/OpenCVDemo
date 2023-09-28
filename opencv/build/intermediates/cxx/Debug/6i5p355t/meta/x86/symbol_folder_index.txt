@@ -1,0 +1,1 @@
+C:\Users\user\AndroidStudioProjects\MyOpenCV\opencv\build\intermediates\cxx\Debug\6i5p355t\obj\x86
